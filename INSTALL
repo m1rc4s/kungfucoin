@@ -1,0 +1,9 @@
+Building Blackcoin
+
+See doc/readme-qt.rst for instructions on building Kungfucoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Kungfucoin.
+
+See doc/build-*.txt for instructions on building kungfucoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Kungfucoin.
